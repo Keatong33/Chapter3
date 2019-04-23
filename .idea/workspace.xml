@@ -12,24 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ComputerCommission.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ComputerCommission.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodsThatUseAnEmployee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MethodsThatUseAnEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="98" selection-start-line="25" selection-start-column="98" selection-end-line="25" selection-end-column="98" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +42,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookStoreCredit.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BookStoreCredit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BookStoreCredit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="106" lean-forward="true" selection-start-line="17" selection-start-column="106" selection-end-line="17" selection-end-column="106" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MetricConversion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MetricConversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Debug3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debug3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParadiseInfo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ParadiseInfo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Debug4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debug4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Debug2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debug2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -74,15 +105,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MetricConversion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MetricConversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -107,9 +129,14 @@
         <option value="$PROJECT_DIR$/src/MethodsThatUseAnEmployee.java" />
         <option value="$PROJECT_DIR$/src/NumbersDemo.java" />
         <option value="$PROJECT_DIR$/src/Percentages.java" />
-        <option value="$PROJECT_DIR$/src/MetricConversion.java" />
         <option value="$PROJECT_DIR$/src/Debug1.java" />
         <option value="$PROJECT_DIR$/src/BookStoreCredit.java" />
+        <option value="$PROJECT_DIR$/src/Debug2.java" />
+        <option value="$PROJECT_DIR$/src/MetricConversion.java" />
+        <option value="$PROJECT_DIR$/src/Debug3.java" />
+        <option value="$PROJECT_DIR$/src/Debug4.java" />
+        <option value="$PROJECT_DIR$/src/ParadiseInfo.java" />
+        <option value="$PROJECT_DIR$/src/ParadiseInfo2.java" />
       </list>
     </option>
   </component>
@@ -160,17 +187,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BookStoreCredit">
+  <component name="RunManager" selected="Application.ParadiseInfo">
     <configuration name="BookStoreCredit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BookStoreCredit" />
       <module name="Chapter3" />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Chapter3" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration name="MethodsThatUseAnEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MethodsThatUseAnEmployee" />
@@ -180,19 +200,24 @@
       <option name="MAIN_CLASS_NAME" value="NumbersDemo" />
       <module name="Chapter3" />
     </configuration>
+    <configuration name="ParadiseInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParadiseInfo" />
+      <module name="Chapter3" />
+    </configuration>
     <configuration name="Percentages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Percentages" />
       <module name="Chapter3" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MethodsThatUseAnEmployee" />
       <item itemvalue="Application.NumbersDemo" />
       <item itemvalue="Application.Percentages" />
       <item itemvalue="Application.BookStoreCredit" />
+      <item itemvalue="Application.ParadiseInfo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParadiseInfo" />
         <item itemvalue="Application.BookStoreCredit" />
         <item itemvalue="Application.Percentages" />
         <item itemvalue="Application.NumbersDemo" />
@@ -219,6 +244,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -242,7 +268,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -363,13 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MetricConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Debug1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -379,8 +397,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BookStoreCredit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="106" lean-forward="true" selection-start-line="17" selection-start-column="106" selection-end-line="17" selection-end-column="106" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debug2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MetricConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debug3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debug4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParadiseInfo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
