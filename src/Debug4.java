@@ -5,13 +5,13 @@ public class Debug4 {
         int yourCredits = 17;
         double rate = 75.84;
         System.out.println("My tuition:");
-        //tuitionBill(myCredits, rate);
+        tuitionBill(myCredits, rate);
         System.out.println("Your tuition:");
-        //tuitionBill(yourCredits, myCredits);
+        tuitionBill(yourCredits, myCredits);
     }
-    //public static void tuitionBill(int c double r)
+    public static void tuitionBill(int c double r)
     {
-       // System.out.println("Total due " + (r*c));
+        System.out.println("Total due " + (r*c));
     }
 }
 

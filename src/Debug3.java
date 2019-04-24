@@ -4,7 +4,7 @@ public class Debug3 {
         {
             String name;
            // name = getName;
-           // displayGreeting(name);
+            //displayGreeting(name);
         }
         public static String getName()
         {
