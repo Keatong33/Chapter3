@@ -1,16 +1,19 @@
-public class SpaService {
-    public static void main(String[] args){
-        private String serviceDescription;
-        private double price;
-        setServiceDescription();
-        setPrice();
+public class SpaService
+{
+    private String serviceDescription;
+    private double price;
+    public SpaService()
+    {
+        serviceDescription = "XXX";
+        price = 0;
     }
-    public void setServiceDescription(String service){
+    public void setServiceDescription(String service)
+    {
         serviceDescription = service;
     }
-    public void setPrice(double pr){
+    public void setPrice(double pr)
+    {
         price = pr;
-
     }
     public String getServiceDescription()
     {
@@ -19,9 +22,5 @@ public class SpaService {
     public double getPrice()
     {
         return price;
-    }
-    public SpaService(){
-        serviceDescription = "xxx";
-        price = 0;
     }
 }

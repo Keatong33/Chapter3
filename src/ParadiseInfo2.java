@@ -14,11 +14,11 @@ public class ParadiseInfo2 {
 
 
         displayInfo();
-        //computeDiscountInfo();
-        //savings = computeDiscountInfo(price, discount);
+        computerDiscountInfo(price, discount);
+        savings = computerDiscountInfo(price, discount);
         System.out.println("Special this week on any service over" + price);
         System.out.println("Discount of" + discount + " percent");
-        //System.out.println("That's a saving of at least $" + savings);
+        System.out.println("That's a saving of at least $" + savings);
 
     }
     public static void displayInfo(){
@@ -32,4 +32,6 @@ public class ParadiseInfo2 {
         savings = pr * dscnt / 100;
         return savings;
     }
+
+
 }
