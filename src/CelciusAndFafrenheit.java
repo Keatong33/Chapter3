@@ -8,8 +8,10 @@ public class CelciusAndFafrenheit {
         double celsius;
         System.out.println("Put in the temperature for morning>>>");
         temperature=input.nextByte();
-        System.out.println("Put in the temperature for the afternoon");
-        
+        System.out.println("Put in the temperature for the afternoon>>>");
+        fahrenheit=input.nextByte();
+        System.out.println("Put in the temperature for the evening>>>");
+
 
 
     }
