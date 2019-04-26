@@ -7,7 +7,7 @@ public class Debug4 {
         System.out.println("My tuition:");
         tuitionBill(myCredits, rate);
         System.out.println("Your tuition:");
-        tuitionBill(yourCredits, myCredits);
+         tuitionBill(yourCredits, myCredits);
     }
     public static void tuitionBill(int c double r)
     {
